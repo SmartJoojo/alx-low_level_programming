@@ -1,4 +1,10 @@
-d more_numbers(void)
+#include "main.h"
+
+/**
+ * more_numbers - print more numbers
+ */
+
+void more_numbers(void)
 {
 	int i, j;
 
