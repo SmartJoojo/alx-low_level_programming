@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 0x05. C - Pointers, arrays and strings
 
 0. 98 Battery st.
@@ -11,3 +12,6 @@ Write a function that swaps the values of two integers.
 2. This report, by its very length, defends itself against the risk of being read
 mandatory
 Write a function that returns the length of a string
+=======
+ C - Pointers, arrays and strings
+>>>>>>> 7e5efd417f686c93aba47f9df13e864168b53647
